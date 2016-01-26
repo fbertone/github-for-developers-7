@@ -1,0 +1,4 @@
+- Name: **Fabrizio**
+- Location: **Italy**
+- Favourite Food: **Pizza**
+- Hobby: **Playing bass guitar**
