@@ -2,3 +2,4 @@
 - Location: **Italy**
 - Favourite Food: **Pizza**
 - Hobby: **Playing bass guitar**
+- Favorite Color: **Green**
