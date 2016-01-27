@@ -3,3 +3,4 @@
 - Favourite Food: **Pizza**
 - Hobby: **Playing bass guitar**
 - Favorite Color: **Green**
+- Favorite Movie: **The Good, the Bad and the Ugly**
